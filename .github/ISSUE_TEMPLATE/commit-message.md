@@ -16,3 +16,5 @@ SEVEN RULES FOR A GREAT COMMIT: make sure your commit has taken these rules into
 6. Wrap the body at 72 characters
 
 7. Use the body to explain what and why vs. how
+
+NB: Commit after every change to make to the project as this will make your git history more organized
