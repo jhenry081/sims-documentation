@@ -1,6 +1,6 @@
 # METHODOLOGIES USED ARE;-
 
-* PROTOTYPING (which includes;-)
+* PROTOTYPING (Rapid Application Development, which includes;-)
   * Planning
   * Analysis
   * Design
@@ -8,6 +8,8 @@
   * Testing
   * Implementation
   * System
+
+NB: The processes above will be done rapidly
 
 * AGILE FRAMEWORK ( to be specific: SCRUM)
 We follow the SCRUM guide.
