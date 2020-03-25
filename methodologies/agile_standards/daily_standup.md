@@ -17,3 +17,7 @@
 ## TIME
 
 At 2100hrs (9pm) everyday of the sprint
+
+## WHERE
+
+WhatsApp Group
